@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 Frontend Developer focused on building responsive, user-friendly websites, with a strong background in graphic design and logo creation.<br><br>🔭 I’m currently working on responsive frontend websites and logo design projects.<br>👯 I’m looking to collaborate on frontend web projects and graphic design work.<br>🤝 I’m looking for help with advanced JavaScript and real-world frontend projects.<br>🌱 I’m currently working with JavaScript, React, and modern frontend tools.<br>💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, React, and graphic design.<br>⚡ Fun fact: I love designing code in my free time and experimenting with .<br>
 
 
